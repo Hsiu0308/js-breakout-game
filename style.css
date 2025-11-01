@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+
+  flex-direction: column;
+  gap: 20px;
+}
+
+#myCanvas {
+  background-color: black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#startButton {
+  margin-bottom: 20px;
+  padding: 12px 25px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+  background-color: #4caf50; /* 綠色 */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 4px #999;
+  transition: all 0.1s ease-in-out;
+}
+
+#startButton:hover {
+  background-color: #45a049;
+}
+
+#startButton:active {
+  background-color: #45a049;
+  box-shadow: 0 2px #666;
+  transform: translateY(2px);
+}
