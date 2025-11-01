@@ -6,7 +6,7 @@
 
 您可以透過以下連結瀏覽這個網站的即時成果：
 
-[**https://github.com/Hsiu0308/js-breakout-game/**](https://github.com/Hsiu0308/js-breakout-game/)
+[**https://hsiu0308.github.io/js-breakout-game/**](https://hsiu0308.github.io/js-breakout-game/)
 
 ---
 
