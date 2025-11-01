@@ -52,7 +52,7 @@ project/
 
 ## 👨‍💻 作者
 
-Hansel Huang
+Hensel Huang
 
 ## 授權
 
